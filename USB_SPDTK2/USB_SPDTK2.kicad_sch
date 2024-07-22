@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "d0d19fe4-688a-48aa-b086-8ecea6910e81")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 53.34 24.13)
+		(size 13.97 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f12b4b2a-0036-42fa-9939-44b2f750a303")
+		(property "Sheetname" "Controller"
+			(at 53.34 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Controller.kicad_sch"
+			(at 53.34 41.2246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "USB_SPDTK2"
+				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 24.13)
+		(size 13.97 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fb243b84-8fcb-4d6c-b11a-fee88dae7f56")
+		(property "Sheetname" "Power"
+			(at 27.94 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 27.94 41.2246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "USB_SPDTK2"
+				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

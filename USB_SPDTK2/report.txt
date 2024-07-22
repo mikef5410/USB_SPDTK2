@@ -1,0 +1,80 @@
+Info: Processing symbol 'R2:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'L1:Inductor_SMD:L_Changjiang_FNR4030S'.
+Info: Processing symbol 'J3:Connector_PinHeader_1.27mm:PinHeader_2x08_P1.27mm_Vertical'.
+Info: Processing symbol 'J2:Connector:Tag-Connect_TC2050-IDC-FP_2x05_P1.27mm_Vertical'.
+Info: Processing symbol 'J1:Connector_USB:USB_Micro-B_Amphenol_10118193-0001LF_Horizontal'.
+Info: Processing symbol 'H2:MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom'.
+Info: Processing symbol 'H1:MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R16:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R17:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R18:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS'.
+Info: Processing symbol 'SW2:Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS'.
+Info: Processing symbol 'U1:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U2:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U4:Package_QFP:LQFP-64_10x10mm_P0.5mm'.
+Info: Processing symbol 'U5:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'U6:Package_SO:SO-20_12.8x7.5mm_P1.27mm'.
+Info: Processing symbol 'Y1:Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'FID4:Fiducial:Fiducial_1mm_Mask3mm'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'D1:Diode_SMD:D_SMA'.
+Info: Processing symbol 'FID3:Fiducial:Fiducial_1mm_Mask3mm'.
+Info: Processing symbol 'FID2:Fiducial:Fiducial_1mm_Mask3mm'.
+Info: Processing symbol 'FID1:Fiducial:Fiducial_1mm_Mask3mm'.
+Info: Processing symbol 'FB1:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'D7:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'D5:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'D2:Package_TO_SOT_SMD:SOT-143'.
+Info: Processing symbol 'D3:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'D4:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'D6:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Add net unconnected-(J3-Pin_11-Pad11).
+Reconnected J3 pin 12 from Aux3 to unconnected-(J3-Pin_12-Pad12).
+Add net unconnected-(J3-Pin_12-Pad12).
+Reconnected J3 pin 9 from Aux0 to unconnected-(J3-Pin_9-Pad9).
+Add net unconnected-(J3-Pin_9-Pad9).
+Reconnected J3 pin 11 from Aux2 to unconnected-(J3-Pin_11-Pad11).
+Add net unconnected-(J3-Pin_10-Pad10).
+Reconnected J3 pin 10 from Aux1 to unconnected-(J3-Pin_10-Pad10).
+Warning: No net found for component U6 pad 17 (no pin 17 in symbol).
+Warning: No net found for component U6 pad 18 (no pin 18 in symbol).
+Warning: No net found for component U6 pad 19 (no pin 19 in symbol).
+Warning: No net found for component U6 pad 20 (no pin 20 in symbol).
+
+
+Info: Total warnings: 4, errors: 0.
