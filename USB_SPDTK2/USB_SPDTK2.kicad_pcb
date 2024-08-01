@@ -17113,6 +17113,25 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text_box "DO NOT FABRICATE\nL293D PINOUT IS \nWRONG!"
+		(start 114.9 70.15)
+		(end 136.7 97.35)
+		(layer "User.4")
+		(uuid "0c1fa72f-8a6e-4c77-8a09-c063662b1403")
+		(effects
+			(font
+				(size 3 1.5)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(border yes)
+		(stroke
+			(width 2)
+			(type solid)
+		)
+	)
 	(segment
 		(start 138.1 76.2)
 		(end 139.855 74.4449)
