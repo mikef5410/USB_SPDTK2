@@ -12,7 +12,7 @@ C18,30pF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,129.8,-104.8,90.0,top
 C19,4.7u,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,135.2325,-90.8,180.0,top
 C2,220p,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,131.2325,-78.8,0.0,top
 C20,0.1u,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,139.6325,-103.8,0.0,top
-C21,22uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,112.3,-78.7,0.0,top
+C21,22uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,119.4,-72.2,180.0,bottom
 C3,4.7u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,131.1,-80.5,180.0,top
 C4,1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,139.2,-85.8,0.0,top
 C5,4.7u,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,138.4675,-93.5,0.0,top
@@ -52,8 +52,8 @@ R6,0,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,139.9025,-94.9,180.0,top
 R7,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,138.7025,-83.2,180.0,top
 R8,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,110.6,-95.3,0.0,top
 R9,100,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,136.0,-99.7,180.0,bottom
-SW1,SW_Push,SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS,112.7,-88.5,180.0,top
-SW2,SW_Push,SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS,112.7,-82.1,180.0,top
+SW1,SW_Push,SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS,112.9,-89.5,180.0,top
+SW2,SW_Push,SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS,112.9,-84.1,180.0,top
 U1,LM27313XMF,SOT-23-5,135.1,-76.4,270.0,top
 U2,LP2985-3.3,SOT-23-5,139.1,-89.5,180.0,top
 U3,L293DD,SO-20_12.8x7.5mm_P1.27mm,121.2,-80.2,180.0,bottom
