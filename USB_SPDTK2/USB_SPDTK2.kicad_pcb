@@ -10536,7 +10536,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C434423"
+		(property "LCSC" "C125094"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15747,7 +15747,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/l293.pdf"
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/l293d.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
